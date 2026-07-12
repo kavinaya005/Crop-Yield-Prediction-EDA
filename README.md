@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-This project was developed as part of my **21PCS02 - Exploratory Data Analysis Course Work Mini Project**. The project aims to predict crop yield on Indian crops 🇮🇳 using machine learning by performing exploratory data analysis (EDA), data preprocessing, feature engineering, and regression model comparison.
+This project was developed as part of my **21PCS02 - Exploratory Data Analysis Course Work Mini Project**. The project aims to predict crop yield on Indian crops using machine learning by performing exploratory data analysis (EDA), data preprocessing, feature engineering, and regression model comparison.
 
 ## 📂 Dataset:
 
